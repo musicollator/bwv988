@@ -1,5 +1,5 @@
 workInfo:
-  title: "Variatio 18 - BWV 849"
+  title: "Variatio 18 - BWV 988"
   fullTitle: "Variatio 18. Canone alla Sesta. Goldberg Variations, BWV 988"
   composer: "J.S. Bach"
   workId: "bwv988"
@@ -10,7 +10,6 @@ files:
   audioPath: "bwv988_ly_one_line.mp3"
   
 musicalStructure:
-  ## totalDurationSeconds: 463.104000 (ffprobe -i exports/bwv849.mp3 -show_entries format=duration -v quiet -of csv="p=0")
   totalDurationSeconds: 42.5
   totalMeasures: 32
   visualLeadTimeSeconds: 0
