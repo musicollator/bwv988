@@ -12,5 +12,5 @@ files:
 musicalStructure:
   totalDurationSeconds: 42.5
   totalMeasures: 32
-  visualLeadTimeSeconds: 0
+  visualLeadTimeSeconds: 0.1
 
